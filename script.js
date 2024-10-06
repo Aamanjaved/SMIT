@@ -46,3 +46,19 @@
 //     }
 // }   
 // alert("You Win");
+
+
+// var i = 0;
+
+// while(i !== 7) {
+// console.log(i)
+// i++;
+// }
+
+
+// let i = 0;
+
+// do {
+//     console.log(i)
+//     i
+// }while(i)
