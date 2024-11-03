@@ -1,0 +1,59 @@
+/* body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
+
+button {
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    --bg-color: white;
+    --text-color: black;
+    --button-bg: lightgray;
+    --button-text: black;
+}
+
+button:hover {
+    background-color: darkgray;
+}
+
+.dark-mode {
+    --bg-color: #121212;
+    --text-color: white;
+    --button-bg: #333;
+    --button-text: white;
+} */
+
+
+
+/* 
+body{
+
+    background-color: white;
+    color: black;
+}
+
+.dark-mode{
+    background-color: black;
+    color: white;
+} */
+
+body {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
