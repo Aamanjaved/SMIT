@@ -1,0 +1,15 @@
+Create a Bank Account Constructor
+Write a constructor function BankAccount with parameters:
+accountNumber
+accountHolderName
+balance
+Each BankAccount object should have the following properties:
+accountNumber (string)
+accountHolderName (string)
+balance (number)
+Add the following methods:
+deposit(amount): Adds amount to balance.
+withdraw(amount): Subtracts amount from balance, if sufficient funds exist.
+getBalance(): Returns the current balance.
+Test the Bank Account:
+Create a bank account and test each method to make sure it behaves as expected.
